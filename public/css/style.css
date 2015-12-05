@@ -1,0 +1,235 @@
+
+/** login page **/
+.signin-box{
+	background: #30353f url("../img/background_masked_last.png");
+    background-size: cover;
+}
+.account-hd {
+    max-width: 1260px;
+    margin: 45px auto;
+}
+.sign-wrap {
+	width: 600px;
+    margin: 200px auto;
+    padding: 40px;
+    border: 1px solid #ddd;
+    background: #fff;
+}
+.signin-form .am-form-group{
+	margin-bottom: 25px;
+}
+.signin-form legend{
+	margin-bottom: 0;
+	border-bottom: none;
+}
+
+.submit-status-error{
+	color: #f00;
+}
+
+/** sites page **/
+.sites-wrap{
+	background: #f9f9f9;
+	color: #666;
+}
+.user-header {
+	overflow: hidden;
+	padding: 20px 0;
+	border-bottom: 1px solid #dedede;
+	background: #fff;
+}
+.usr-fixed-col {
+    width: 260px;
+}
+.logo{
+	margin-left: 20px;
+    padding: 0 82px 0 0;
+    background: url("../img/logo.png") no-repeat right;
+}
+.logo-icon {
+    display: block;
+    width: 38px;
+    height: 38px;
+    position: relative;
+}
+.logo-icon i {
+  position: absolute;
+  width: 45%;
+}
+.logo-icon i:nth-child(1) {
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: #f30810;
+}
+.logo-icon i:nth-child(2) {
+  height: 60%;
+  right: 0;
+  top: 0;
+  background: #00aeee;
+}
+.logo-icon i:nth-child(3) {
+  height: 30%;
+  right: 0;
+  bottom: 0;
+  background: #46b969;
+}
+.usr-float-col{
+	overflow: hidden;
+}
+.usr-float-col ul {
+	overflow: hidden;
+    padding: 0;
+    margin: 0;
+    padding-left: 10px;
+    list-style: none;
+}
+.usr-float-col li {
+    float: left;
+    margin-right: 30px;
+    height: 38px;
+    line-height: 38px;
+}
+.usr-float-col li a{
+	font-size: 16px;
+	color: #666;
+}
+.usr-main-menu .active a{
+	color: #15aef0; 
+}
+.usr-float-col .usr-account-panel{
+	padding-right: 10px;
+}
+.usr-float-col .usr-account-panel li{
+	margin-right: 10px;
+}
+
+.site-list-container{
+	width: 1230px;
+	margin:0 auto;
+}
+.usr-list-hd .am-btn {
+    font-size: 14px;
+}
+.usr-list-hd {
+    overflow: hidden;
+    margin: 40px 0;
+}
+.user-list-tb.am-table {
+    border: 1px solid #ddd;
+    background: #fff;
+}
+.user-list-tb {
+    margin: 30px 0;
+    padding: 20px 0 60px 0;
+}
+.user-list-tb>tbody>tr>td{
+	font-size: 14px;
+	border-top: none;
+}
+.user-list-tb tr:first-child td{
+	text-align: center;
+}
+.user-list-tb tr .user-list-info{
+	width: 600px;
+	border-right: 1px solid #ccc;
+}
+.user-list-appIcon{
+	margin: 0 20px 0 42px;
+}
+.user-list-info img{
+	width: 90px;
+	height: 90px;
+}
+.user-list-name{
+	width: 400px;
+	padding-top: 15px;
+}
+.user-list-name a,.user-list-name span{
+	display: block;
+	font-size: 14px;
+}
+.user-list-name a{
+	margin-bottom: 20px;
+}
+.user-list-tbxm{
+	position: relative;
+	width: 300px;
+	text-align: center;
+	border-right: 1px solid #ccc;
+}
+.user-list-data{
+	margin-top: 20px;
+}
+.synchstate{
+	position: absolute;
+	left: 200px;
+	bottom: 13px;
+}
+.stateError{
+	position: absolute;
+	display: none;
+	left: 200px;
+	bottom: 13px;
+}
+
+.btn-tb{
+	margin-top: 25px;
+	padding: .5rem 1.8rem;
+	font-size: 14px;
+	background: #F1F1F1;
+}
+.user-list-spzt{
+	border-right: none;
+}
+.paging .am-pagination{
+	margin: 0 50px;
+	padding: 0;
+	text-align: center;
+}
+.am-pagination>li>a{
+	padding: 10px;
+	font-size: 14px;
+}
+
+.create-pro form, .create-pro .am-modal-hd{
+	overflow: hidden;
+	width: 450px;
+	margin: 20px auto 40px;
+}
+.create-pro .am-modal-dialog{
+	position: relative;
+}
+.create-pro .am-modal-hd{
+	margin: 0 auto;
+	padding-left: 1.5rem;
+	text-align: left;
+}
+.createError{
+	position: absolute;
+	left: 65px;
+	bottom: 15px;
+	font-size: 14px;
+}
+
+/** log page **/
+.log-table, .sysinfo-table{
+	width: 1200px;
+	margin: 50px auto;
+	background: #fff;
+}
+.log-table td, .log-table th, .sysinfo-table td{
+	width: 50%;
+	height: 50px;
+	text-align: center;
+	border: 1px solid #ccc;
+}
+
+.sysinfo-table td:first-child{
+	width: 40%;
+}
+.sysinfo-table td:nth-child(2){
+	width: 60%;
+}
+
+

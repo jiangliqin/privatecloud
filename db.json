@@ -1,0 +1,80 @@
+{"users": {
+    "id": "555546ddf2f359202cfba0b",
+    "email": "liqin.jiang@yunshipei.com",
+    "password": "1q1q1q"
+}, "sites": [
+    {
+        "id": "55515964a044d0b501691148",
+        "checkcode": "eac05e6e969db612b9e55ef05c951e6e",
+        "name": "bh",
+        "host": "www.buaa.edu.cn",
+        "user": "55514e5aa044d0b501691143",
+        "siteID": "3996eb4aa8ed80b0df71a97404e550f6",
+        "createAt": "2015-05-12T01:37:40.324Z",
+        "status": 100
+    },
+    {
+        "_id": "55515964a044d0b501691148",
+        "checkcode": "eac05e6e969db612b9e55ef05c951e6e",
+        "name": "bh",
+        "host": "www.buaa.edu.cn",
+        "user": "55514e5aa044d0b501691143",
+        "siteID": "3996eb4aa8ed80b0df71a97404e550f64",
+        "createAt": "2015-05-12T01:37:40.324Z",
+        "status": 100
+    },
+    {
+        "id": "",
+        "name": "知乎2",
+        "host": "http://www.zhihu.com/",
+        "user": "55514e5aa044d0b501691143",
+        "createAt": "",
+        "status": "",
+        "siteID": "58a8ca3d4a86de7faecc2a26d0c2f470"
+    },
+    {
+        "id": "",
+        "name": "知乎2",
+        "host": "http://www.zhihu.com/",
+        "user": "55514e5aa044d0b501691143",
+        "createAt": "",
+        "status": "",
+        "siteID": "58b6a65f83c550c90820ac8eebacf8f3"
+    },
+    {
+        "id": "",
+        "name": "知乎2",
+        "host": "http://www.zhihu.com/",
+        "user": "55514e5aa044d0b501691143",
+        "createAt": "",
+        "status": "",
+        "siteID": "9d4e4f27c119b06692f20e89de497a79"
+    },
+    {
+        "id": "",
+        "name": "知乎2",
+        "host": "http://www.zhihu.com/",
+        "user": "555546ddf2f359202cfba0b",
+        "createAt": "",
+        "status": "",
+        "siteID": "028c39385368499526f4672f9bc1e04c"
+    },
+    {
+        "id": "",
+        "name": "知乎4",
+        "host": "http://www.zhihu.com/",
+        "user": "555546ddf2f359202cfba0b",
+        "createAt": "",
+        "status": "",
+        "siteID": "4bb6c8eaca3d71f55a760fbb14094e86"
+    },
+    {
+        "id": "",
+        "name": "baidushipei",
+        "host": "www.baidu.com",
+        "user": "555546ddf2f359202cfba0b",
+        "createAt": "",
+        "status": "",
+        "siteID": "6c975ae200eb212caca37cce31a92a9e"
+    }
+]}

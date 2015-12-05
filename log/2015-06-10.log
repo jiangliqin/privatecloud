@@ -1,0 +1,18 @@
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:04:31.267"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:05:32.882"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:06:34.490"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:12:45.244"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:13:48.944"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:15:39.927"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:17:42.096"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:41:19.052"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:42:25.155"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:42:54.474"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 09:45:23.773"}
+{"level":"error","message":"访问出错 404 at /Users/x/privatecloud/node_modules/q/q.js:844:24 _rejected","timestamp":"2015-06-10 09:56:06.783"}
+{"level":"error","message":"访问出错 404 at /Users/x/privatecloud/node_modules/q/q.js:844:24 _rejected","timestamp":"2015-06-10 10:15:52.492"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 10:31:06.144"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 12:28:20.476"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 12:28:50.147"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 12:29:15.412"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-10 12:29:58.763"}

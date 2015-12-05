@@ -1,0 +1,54 @@
+<!DOCTYPE>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title ng-bind="subTitle+' | '+title">云适配私有云平台</title>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.3.0/css/amazeui.min.css" />
+  <link rel="stylesheet" href="css/style.css"/>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/angular.min.js"></script>
+  <script type="text/javascript" src="js/signinCtrl.js"></script>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body class="signin-box">
+  <div class="account-hd clearfix">
+    <a href="/">
+        <img src="img/sign_logo.png">
+    </a>
+  </div>
+  <div class="am-container" ng-app="SigninApp">
+    <div class="sign-wrap ng-scope" id="login" data-ng-controller="SignInController">
+      <form class="am-form am-form-horizontal signin-form ng-valid-required ng-dirty" name="signin" data-ng-submit="submit()">
+        <div class="am-form-group">
+          <legend class="am-u-sm-2">登录</legend>
+        </div>
+        <div class="am-form-group">
+          <label class="am-u-sm-2 am-form-label">邮箱</label>
+          <div class="am-u-sm-10">
+            <input type="email" data-ng-model="user.email" name="email" data-ng-model="user.email" ng-required="" class="user-email" />
+          </div>
+        </div>
+        <div class="am-form-group">
+          <label class="am-u-sm-2 am-form-label">密码</label>
+          <div class="am-u-sm-10">
+            <input type="password" name="password" data-ng-model="user.password" ng-required="" class="user-pwd" />
+          </div>
+        </div>
+        <div class="am-form-group">
+          <div class="am-u-sm-10 am-u-sm-offset-2">
+            <button type="submit" class="am-btn am-btn-success">登 录</button>
+            <span class="submit-status-error">{{message}}</span>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

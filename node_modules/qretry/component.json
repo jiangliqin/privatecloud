@@ -1,0 +1,9 @@
+{
+    "name" : "qretry",
+    "version" : "0.1.3",
+    "readme" : "README.md",
+    "main" : "./build/qretry.min.js",
+    "dependencies" : {
+        "q" : "~0.9"
+    }
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title ng-bind="subTitle+' | '+title">云适配私有云平台</title>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.3.0/css/amazeui.min.css" />
+  <link rel="stylesheet" href="css/style.css"/>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/angular.min.js"></script>
+  <script type="text/javascript" src="js/sitesCtrl.js"></script>
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body ng-app="SitesApp">
+  <div class="user-header">
+    <div class="am-fl usr-fixed-col">
+      <a class="am-fl logo">
+        <span class="logo-icon">
+          <i></i><i></i><i></i>
+        </span>
+      </a>
+    </div>
+
+    <div class="usr-float-col" data-ng-controller="HeaderController">
+      <ul class="am-fl usr-main-menu">
+        <li>
+          <a href="sites.html">项目管理</a>
+        </li>
+        <li>
+          <a href="log.html">同步日志</a>
+        </li>
+        <li class="active">
+          <a href="sysInfo.html">系统信息</a>
+        </li>
+      </ul>
+      <ul class="am-fr usr-account-panel">
+        <li>
+          <a href="/#!/account">{{email}}</a>
+        </li>
+        <li>
+          <a href="/signout">退出</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <section>
+    <table class="sysinfo-table" data-ng-controller="SysInfoController">
+      <tbody>
+        <tr>
+          <td>版权信息</td>
+          <td>美通云动（北京）科技有限公司</td>
+        </tr>
+        <tr>
+          <td>适配服务器连接状态</td>
+          <td>{{state}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+</body>
+<script src="js/jquery.min.js"></script>
+<script src="http://cdn.amazeui.org/amazeui/2.4.0/js/amazeui.min.js"></script>
+</html>

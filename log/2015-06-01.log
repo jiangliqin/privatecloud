@@ -1,0 +1,180 @@
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 09:41:42.510"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 09:44:50.702"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 09:44:50.711"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 09:44:50.712"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 09:49:26.463"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"cae9c100-07ff-11e5-ba0d-61e3c0f94d45\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 09:44\",\"detail\":\"同步失败\"},{\"id\":\"6f462b80-0800-11e5-ba0d-61e3c0f94d45\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 09:49\",\"detail\":\"创建项目成功\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 09:49:32.915"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 09:50:22.311"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 09:50:22.315"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 09:50:22.317"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"cae9c100-07ff-11e5-ba0d-61e3c0f94d45\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 09:44\",\"detail\":\"同步失败\"},{\"id\":\"6f462b80-0800-11e5-ba0d-61e3c0f94d45\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 09:49\",\"detail\":\"创建项目成功\"},{\"id\":\"90911e80-0800-11e5-ba0d-61e3c0f94d45\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 09:50\",\"detail\":\"同步失败\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 09:50:25.769"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 10:40:17.914"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 10:42:02.743"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 10:42:57.643"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 10:44:42.562"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 10:44:57.319"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 10:45:18.090"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:04:31.187"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:05:28.076"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:21:29.360"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:22:15.892"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:22:44.509"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:24:52.690"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:25:17.476"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:25:40.993"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:29:47.951"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:30:20.435"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:30:44.769"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:31:49.598"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:32:22.209"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:33:05.177"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:33:30.260"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:33:59.767"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:34:18.969"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:34:48.697"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:35:04.633"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:35:29.306"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:35:51.779"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:36:04.436"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:36:17.929"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:39:35.970"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 11:39:54.396"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 13:07:21.166"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 13:08:35.027"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 13:36:51.526"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 13:43:52.251"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 13:44:15.625"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:03:18.199"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:03:37.845"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:04:20.961"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:10:46.014"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:11:01.324"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:11:59.643"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:13:23.828"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:14:04.541"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:18:12.488"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:19:03.318"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:19:04.855"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"1a581db0-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:19\",\"detail\":\"创建项目成功\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:19:23.662"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"1a581db0-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:19\",\"detail\":\"创建项目成功\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:19:55.531"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 14:20:16.928"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:20:16.933"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:20:16.935"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"1a581db0-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:19\",\"detail\":\"创建项目成功\"},{\"id\":\"454f9110-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"同步失败\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:20:23.720"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:20:31.894"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"1a581db0-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:19\",\"detail\":\"创建项目成功\"},{\"id\":\"454f9110-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"同步失败\"},{\"id\":\"4e3abd40-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"创建项目失败\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:20:42.410"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 14:27:09.184"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:27:09.188"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:27:09.189"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:27:51.317"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"1a581db0-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:19\",\"detail\":\"创建项目成功\"},{\"id\":\"454f9110-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"同步失败\"},{\"id\":\"4e3abd40-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"创建项目失败\"},{\"id\":\"3b08d710-0827-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:27\",\"detail\":\"同步失败\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:28:06.046"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:28:22.338"}
+{"level":"info","message":"logs[{\"id\":\"585a2720-051a-11e5-b041-c5a790b5a802\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:17\",\"detail\":\"创建项目成功\"},{\"id\":\"14c10c80-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"创建项目失败\"},{\"id\":\"205363e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:22\",\"detail\":\"同步失败\"},{\"id\":\"39a070e0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:23\",\"detail\":\"同步失败\"},{\"id\":\"4f012880-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"64fac4c0-051b-11e5-bc45-2dddd10379ab\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-05-28 17:24\",\"detail\":\"同步成功\"},{\"id\":\"1a581db0-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:19\",\"detail\":\"创建项目成功\"},{\"id\":\"454f9110-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"同步失败\"},{\"id\":\"4e3abd40-0826-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:20\",\"detail\":\"创建项目失败\"},{\"id\":\"3b08d710-0827-11e5-bfd1-2f5d93fb486c\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:27\",\"detail\":\"同步失败\"},{\"id\":\"66a1ba90-0827-11e5-a4f3-a9ca201c6725\",\"user\":\"555546ddf2f359202cfba0b\",\"time\":\"2015-06-01 14:28\",\"detail\":\"创建项目成功\"}] at /Users/x/privatecloud/node_modules/json-file-db/index.js:68:7 ","timestamp":"2015-06-01 14:28:26.086"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 14:28:32.701"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:28:32.707"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:28:32.708"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:29:20.455"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:29:55.873"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:30:07.533"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 14:37:35.741"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:37:35.746"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:37:35.748"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:52:53.011"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:53:28.666"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:54:12.288"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 14:54:13.959"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:54:13.969"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:54:13.970"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:55:25.809"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:55:25.810"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:56:09.755"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:56:11.399"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:56:11.401"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 14:58:31.319"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:58:34.281"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 14:58:34.284"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:01:11.021"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:01:12.485"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:01:12.487"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:01:57.277"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:01:59.342"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:01:59.343"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:02:24.496"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:02:26.504"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:02:26.505"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:08:26.319"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:09:45.348"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-01 15:09:47.921"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:10:38.501"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:11:15.691"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:12:11.971"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:12:12.831"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:12:14.381"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:12:14.382"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:13:02.151"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:13:19.526"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:13:19.528"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:17:48.820"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:18:04.662"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:18:06.521"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:18:06.523"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:19:29.684"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:19:31.939"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:19:31.940"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:20:13.187"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:20:18.979"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:20:18.981"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 15:20:48.423"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:20:49.948"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 15:20:49.950"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 16:59:39.047"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 17:20:54.810"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 17:23:15.248"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 17:24:42.929"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 17:58:24.997"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 18:01:26.975"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 18:03:29.017"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 18:48:11.913"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 18:54:28.676"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 18:56:22.681"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:11:30.390"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 19:11:32.416"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 19:12:28.348"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 19:13:09.663"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:13:14.717"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 19:13:15.905"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:14:01.131"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:51:16.703"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:58:45.174"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:59:16.903"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 19:59:37.644"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:00:28.145"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:00:29.698"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:01:12.896"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:01:14.652"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:02:25.562"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:02:27.168"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:03:12.025"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:03:13.137"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:03:45.795"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:03:46.653"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:04:04.808"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:04:05.807"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:05:39.364"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:05:40.563"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:06:27.810"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:08:48.105"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:08:49.756"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:11:06.910"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:11:09.536"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:11:31.462"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:11:32.513"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:12:40.531"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:12:42.119"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:13:42.763"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:13:44.786"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:16:27.489"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:16:30.129"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-01 20:16:57.296"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:16:58.513"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-01 20:20:34.165"}

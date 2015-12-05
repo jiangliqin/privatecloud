@@ -1,0 +1,96 @@
+<!DOCTYPE>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title ng-bind="subTitle+' | '+title">云适配私有云平台</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+    <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+    <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.3.0/css/amazeui.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/sitesCtrl.js"></script>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body ng-app="SitesApp">
+<div class="user-header">
+    <div class="am-fl usr-fixed-col">
+        <a class="am-fl logo">
+        <span class="logo-icon">
+          <i></i><i></i><i></i>
+        </span>
+        </a>
+    </div>
+
+    <div class="usr-float-col" data-ng-controller="HeaderController">
+        <ul class="am-fl usr-main-menu">
+            <li>
+                <a href="sites.html">项目管理</a>
+            </li>
+            <li class="active">
+                <a href="log.html">同步日志</a>
+            </li>
+            <li>
+                <a href="sysInfo.html">系统信息</a>
+            </li>
+        </ul>
+        <ul class="am-fr usr-account-panel">
+            <li>
+                <a href="/#!/account">{{email}}</a>
+            </li>
+            <li>
+                <a href="/signout">退出</a>
+            </li>
+        </ul>
+    </div>
+</div>
+</div>
+
+<section data-ng-controller="LogController">
+    <table class="log-table" >
+        <thead>
+        <tr>
+            <th>操作内容</th>
+            <th>操作时间</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="log in logs">
+            <td>{{log.detail}}</td>
+            <td>{{log.time}}</td>
+        </tr>
+        </tbody>
+    </table>
+
+    <div class="paging" ng-hide="pageShow">
+        <ul data-am-widget="pagination" class="am-pagination am-pagination-default">
+            <li class="am-pagination-first ">
+                <a href="javascript:void(0)" ng-click="currentPage=1;load()">首页</a>
+            </li>
+            <li ng-class="{true:'am-disabled'}[currentPage==1]" class="am-pagination-prev ">
+                <a href="javascript:void(0);" ng-click="prev()">上一页</a>
+            </li>
+            <li ng-class="{true:'am-active'}[currentPage=={{ page }}]" ng-repeat="page in pages">
+                <a href="javascript:void(0);" ng-click="loadPage(page)">{{ page }}</a>
+            </li>
+            <li ng-class="{true:'am-disabled'}[currentPage==totalPage]" class="am-pagination-next ">
+                <a href="javascript:void(0);" ng-click="next()">下一页</a>
+            </li>
+            <li class="am-pagination-last">
+                <a href="javascript:void(0)" ng-click="currentPage=totalPage;load()">末页</a>
+            </li>
+        </ul>
+    </div>
+
+</section>
+
+</body>
+<script src="js/jquery.min.js"></script>
+<script src="http://cdn.amazeui.org/amazeui/2.4.0/js/amazeui.min.js"></script>
+</html>

@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>the5fire-backbone-router</title>
+</head>
+<body>
+    <div id="search_container">search_container</div>
+    <a href="#/posts/120">Post 120</a>
+<a href="#/download/user/images/hey.gif">download gif</a>
+<a href="#/dashboard/graph">Load Route/Action View</a>
+</body>
+<script src="./plugin/jquery.min.js"></script>
+    <script src="http://ajax.cdnjs.com/ajax/libs/underscore.js/1.1.4/underscore-min.js"></script>
+    <script src="http://documentcloud.github.com/backbone/backbone-min.js"></script>
+    <script data-main="./main.js" src="./plugin/require.js"></script>
+    <script>
+    (function ($) {
+        //Backbone中的router，见名知意，router有路由的意思，显然这里是要控制url的。
+        //Backbone.Router会把你连接中的#标签当做是url路径
+        /**
+        //1、来看一个简单的例子
+        var AppRouter = Backbone.Router.extend({
+            routes: {
+                "*actions" : "defaultRoute"
+            },
+            defaultRoute : function(actions){
+                alert(actions);
+            }
+        });
+        
+        var app_router = new AppRouter;
+        
+        Backbone.history.start();
+        
+        
+        //2、既然是对url进行匹配那么它应该不仅仅只是简单的静态匹配，应该具有传递参数的功能，所以下面再来一个动态的router的例子.
+        var AppRouter = Backbone.Router.extend({
+            routes: {
+                "/posts/:id" : "getPost",
+                "*actions" : "defaultRoute"
+            },
+            getPost: function(id) {
+                alert(id);
+            },
+            defaultRoute : function(actions){
+                alert(actions);
+            }
+        });
+        
+        var app_router = new AppRouter;
+        
+        Backbone.history.start();
+        **/
+        //从上面已经可以看到匹配#标签之后内容的方法，有两种：一种是用“:”来把#后面的对应的位置作为参数；还有一种是“*”，它可以匹配所有的url，下面再来演练一下。
+        var AppRouter = Backbone.Router.extend({
+            routes: {
+                "/posts/:id" : "getPost",
+                "/download/*path": "downloadFile",  //对应的链接为<a href="#/download/user/images/hey.gif">download gif</a>
+                        "/:route/:action": "loadView",      //对应的链接为<a href="#/dashboard/graph">Load Route/Action View</a>
+                "*actions" : "defaultRoute"
+            },
+            getPost: function(id) {
+                alert(id);
+            },
+            defaultRoute : function(actions){
+                alert(actions);
+            },
+            downloadFile: function( path ){ 
+                alert(path); // user/images/hey.gif 
+            },
+            loadView: function( route, action ){ 
+                alert(route + "_" + action); // dashboard_graph 
+            }
+        });
+        
+        var app_router = new AppRouter;
+        
+        Backbone.history.start();
+
+
+        SearchView = Backbone.View.extend({
+
+    initialize: function(){
+
+        this.render('the5fire');
+
+    },
+
+    render: function(search_label) {
+
+        //使用underscore这个库，来编译模板
+
+        var template = _.template($("#search_template").html(),{search_label: search_label});
+
+        //加载模板到对应的el属性中
+
+        this.el.html(template);
+
+    },
+
+    events:{  //就是在这里绑定的
+
+        ​'click input[type=button]' : 'doChange' 
+
+    },
+
+    doChange: function(event){
+
+        //通过model发送数据到服务器
+
+        this.render('the5fire' + $("#search_input").val());
+
+    }
+
+});
+
+var searchView = new SearchView({el: $("#search_container")});
+
+        
+    })(jQuery);
+    </script>
+    
+</html>

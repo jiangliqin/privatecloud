@@ -1,0 +1,276 @@
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 09:44:15.087"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 09:44:37.209"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 09:49:52.514"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 09:58:29.880"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 09:59:44.732"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:00:01.319"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:00:32.578"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:01:00.484"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:01:01.872"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:02:48.410"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:14:06.575"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:14:11.732"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:14:33.984"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:14:35.167"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:14:47.895"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:14:48.738"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:15:08.866"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:15:51.364"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:15:53.542"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:22:14.567"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:22:22.823"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:22:22.825"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:22:36.115"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:22:36.118"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:32:36.456"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:33:11.726"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:33:13.281"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:33:28.326"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:41:25.622"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:42:46.103"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:43:29.919"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:43:47.166"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:44:16.381"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:46:41.122"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:47:09.497"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 10:47:28.614"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 10:52:18.117"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:52:18.125"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 10:52:18.126"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:16:36.350"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 11:16:37.846"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:16:37.857"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:16:37.860"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 11:17:12.959"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:17:12.964"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:17:12.965"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:24:11.569"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 11:24:18.748"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:24:18.757"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:24:18.759"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:25:55.051"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:26:06.963"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 11:26:11.523"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:26:11.532"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:26:11.534"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 11:26:17.722"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:26:17.746"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:26:17.748"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 11:26:51.031"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:26:51.036"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:26:51.039"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:27:44.364"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:27:44.365"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:27:49.699"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:27:49.700"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:29:27.280"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:29:35.689"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:29:39.575"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:29:39.576"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:35:02.281"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:35:05.822"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:35:05.824"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 11:35:59.925"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:36:03.577"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 11:36:03.579"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 13:58:50.376"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 13:59:06.168"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 13:59:43.229"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 13:59:46.550"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:00:28.453"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:00:30.651"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:00:30.654"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:06:18.079"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:06:28.438"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:06:28.448"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:06:28.450"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:06:34.525"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:06:34.530"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:06:34.531"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:06:44.170"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:06:44.177"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:06:44.182"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:07:31.055"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:07:44.743"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:07:44.754"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:07:44.755"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:07:50.316"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:07:50.323"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:07:50.324"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:07:58.019"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:07:58.025"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:07:58.027"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:17:21.502"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:18:32.811"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:19:07.101"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:19:17.294"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:20:27.474"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:20:47.246"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:21:06.657"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:06.666"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:06.667"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:21:08.993"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:08.998"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:08.999"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:21:10.397"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:10.401"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:10.402"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:21:39.325"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:23:10.342"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:23:10.348"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:23:10.350"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:24:03.231"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:25:09.882"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:25:09.887"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:25:09.888"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:25:37.350"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:26:09.353"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:28:51.711"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:28:51.712"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:45:40.890"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:32.909"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:43.796"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:43.797"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:44.587"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:44.588"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:44.931"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:44.935"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:45.131"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:45.133"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:45.300"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:45.302"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:45.441"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:45.442"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:46.857"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:46.859"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:48.089"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:48.092"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:48.348"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:48.350"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:48.523"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:48.524"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:47:32.912"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 14:48:05.565"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:48:05.574"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:48:05.575"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:49:49.553"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:49:49.558"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:50:01.618"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:50:13.059"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 14:50:13.061"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 14:56:21.583"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 15:06:39.418"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:06:39.424"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:06:39.425"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:06:58.324"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:06:58.326"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:07:18.535"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:07:35.821"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:07:35.823"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:07:39.082"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:07:39.083"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:07:52.719"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:07:52.720"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:10:35.927"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:11:02.703"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:11:41.835"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:11:57.781"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:12:20.420"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 15:24:34.853"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:24:34.860"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:24:34.862"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 15:24:54.759"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:24:54.767"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:24:54.769"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 15:24:59.620"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:24:59.626"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:24:59.629"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:25:25.297"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 15:25:27.884"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:25:27.894"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:25:27.896"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:28:43.120"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 15:28:46.505"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:28:46.514"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:28:46.515"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:29:11.258"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 15:29:11.260"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:38:41.218"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:38:50.904"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:42:14.419"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:42:35.534"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:45:13.399"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:58:41.593"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:59:00.289"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 15:59:26.049"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:00:14.138"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:00:33.622"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:01:10.028"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:02:51.205"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:03:49.786"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:09:40.816"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:11:20.455"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:15:51.691"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:16:37.447"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:17:36.833"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:21:24.887"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:33:31.735"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:38:34.063"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:39:07.013"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:40:36.101"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:42:04.266"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:44:39.590"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:44:58.892"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:45:43.105"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:46:29.000"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:47:05.571"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:47:34.132"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:50:12.092"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:53:15.966"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 16:58:39.131"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 16:59:09.185"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:09.191"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:09.193"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 16:59:12.020"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:12.025"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:12.027"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:22.321"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:22.327"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:25.484"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 16:59:25.487"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:00:35.787"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:00:44.470"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:05.120"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 17:01:12.156"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:12.161"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:12.162"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 17:01:23.265"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:23.269"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:23.270"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-04 17:01:28.994"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:28.998"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:29.000"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:32.788"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:32.790"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:37.336"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-04 17:01:37.339"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:02:39.576"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:18:13.767"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:48:00.692"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:48:10.936"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:54:35.334"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:54:47.512"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 17:55:45.481"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:05:12.767"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:05:39.733"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:20:06.522"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:21:12.605"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:22:04.484"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:23:02.946"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:24:04.461"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:24:34.038"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:26:10.840"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:26:37.460"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:27:25.248"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:32:30.211"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-04 18:33:05.735"}

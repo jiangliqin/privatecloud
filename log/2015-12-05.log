@@ -1,0 +1,16 @@
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 11:29:14.085"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 15:33:26.371"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 15:34:44.635"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 15:37:37.064"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 15:38:14.324"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 15:38:34.923"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 15:38:50.930"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 16:15:02.976"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 16:17:15.041"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 16:17:54.483"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 16:22:53.108"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 16:24:45.951"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 16:27:41.116"}
+{"level":"error","message":"访问出错 404 at /Users/jlq/Documents/privatecloud/node_modules/q/q.js:844:24 _rejected","timestamp":"2015-12-05 16:28:02.312"}
+{"level":"error","message":"访问出错 404 at /Users/jlq/Documents/privatecloud/node_modules/q/q.js:844:24 _rejected","timestamp":"2015-12-05 16:28:03.369"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:260:16 Server.g","timestamp":"2015-12-05 20:03:52.012"}

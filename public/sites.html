@@ -1,0 +1,112 @@
+<!DOCTYPE>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title ng-bind="subTitle+' | '+title">云适配私有云平台</title>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.3.0/css/amazeui.min.css" />
+  <link rel="stylesheet" href="css/style.css"/>
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/angular.min.js"></script>
+  <script type="text/javascript" src="js/sitesCtrl.js"></script>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body ng-app="SitesApp">
+  <div class="user-header">
+    <div class="am-fl usr-fixed-col">
+      <a class="am-fl logo">
+        <span class="logo-icon">
+          <i></i><i></i><i></i>
+        </span>
+      </a>
+    </div>
+
+    <div class="usr-float-col" data-ng-controller="HeaderController">
+      <ul class="am-fl usr-main-menu">
+        <li class="active">
+          <a href="sites.html">项目管理</a>
+        </li>
+        <li>
+          <a href="log.html">同步日志</a>
+        </li>
+        <li>
+          <a href="sysInfo.html">系统信息</a>
+        </li>
+      </ul>
+      <ul class="am-fr usr-account-panel">
+        <li>
+          <a href="/#!/account">{{email}}</a>
+        </li>
+        <li>
+          <a href="/signout">退出</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <section class="site-list-container" ng-app="SitesApp">
+    <div class="usr-list-hd">
+      <a class="am-btn am-btn-success" href="javascript:void(0)" data-am-modal="{target: '#doc-modal-1', closeViaDimmer: 0}"><i class="am-icon-plus"></i><span>创建一个适配站</span></a>
+    </div>
+
+    <!-- 创建弹出框 -->
+    <div class="am-modal am-modal-no-btn create-pro" tabindex="-1" id="doc-modal-1" data-ng-controller="CreateProController" ng-hide="createform">
+      <div class="am-modal-dialog">
+        <div class="am-modal-hd">创建项目
+          <a href="javascript: void(0)" class="am-close am-close-spin" data-am-modal-close>&times;</a>
+        </div>
+        <div class="am-modal-bd">
+          <form class="am-form am-form-horizontal create-form" data-ng-submit="submit()">
+            <div class="am-u-sm-9">
+              <input type="text" name="siteID" placeholder="请输入siteID" />
+            </div>
+            <div class="am-u-sm-3">
+              <button class="am-btn am-btn-success">创建</button>
+            </div>
+            <span class="createError">{{error}}</span>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="usr-list-bd" data-ng-controller="SitesListController">
+      <table class="am-table user-list-tb" ng-repeat="site in sites">
+        <tbody>
+          <tr>
+            <td></td>
+            <td>同步项目</td>
+            <td>适配状态</td>
+          </tr>
+          <tr>
+            <td class="user-list-info">
+              <img class="am-fl user-list-appIcon" src="img/app_default.png" />
+              <div class="am-fl user-list-name">
+                <a href="">{{site.name}}</a>
+                <span>{{site.siteID}}</span>
+              </div>
+            </td>
+            <td class="user-list-tbxm">
+              <div class="user-list-data">最后同步时间:<span>{{site.synchtime}}</span></div>
+              <button class="am-btn btn-tb" ng-click="Synchro(site.siteID,$event.target)">同步</button>
+              <span class="synchstate" ng-hide="synchShow">{{message}}</span>
+            </td>
+            <td class="user-list-spzt user-list-tbxm">
+              <div class="user-list-data">{{site.noconvert == 1 ? '适配停用' : '适配正常'}}</div>
+              <button class="am-btn btn-tb" ng-click="available(site.siteID,$event.target,site.noconvert)">{{site.noconvert == 1 ? '启用' : '禁用'}}</button>
+              <span class="stateError">{{errormsg}}</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+</body>
+<script src="http://cdn.amazeui.org/amazeui/2.4.0/js/amazeui.min.js"></script>
+</html>

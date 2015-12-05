@@ -1,0 +1,107 @@
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 09:56:13.650"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 09:58:57.601"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:01:58.353"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:02:30.135"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:02:42.675"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:11:59.413"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:13:01.416"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:14:10.815"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:13.034"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:33.694"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 10:14:43.459"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:43.464"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:43.466"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:50.150"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:50.153"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:51.956"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:14:51.958"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:16:28.790"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 10:18:42.100"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:18:42.108"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:18:42.110"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 10:18:47.947"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:18:47.950"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:18:47.952"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 10:24:20.666"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:24:51.365"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 10:45:11.203"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:45:11.208"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:45:11.209"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:45:53.728"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 10:45:53.730"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 16:08:53.003"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 16:30:13.249"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 16:32:27.462"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 16:32:55.350"}
+{"level":"info","message":"[am-privatecloud] listening on port 30000 in  development mode at events.js:180:16 Server.g","timestamp":"2015-06-05 17:37:25.421"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:38:05.709"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 17:38:22.602"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:38:22.606"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:38:22.607"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 17:38:35.940"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:38:35.943"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:38:35.945"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:39:38.008"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:39:38.011"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:39:52.683"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:39:52.685"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 17:58:21.322"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:58:21.326"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:58:21.328"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 17:58:23.242"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:58:23.246"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:58:23.247"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 17:58:25.354"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:58:25.358"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:58:25.359"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:27.832"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:36.934"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:36.935"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 17:59:59.178"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:59.182"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:59.183"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:59.683"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:59.685"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 17:59:27.834"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:00.404"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:00.415"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:00.417"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:01.307"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:01.314"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:02.168"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:02.173"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:02.174"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:03.152"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:03.153"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:03.976"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:03.980"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:03.981"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:04.957"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:04.963"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:05.633"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:05.637"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:05.638"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:06.490"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:06.496"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:07.262"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:07.268"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:07.269"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:08.136"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:08.138"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:09.048"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:09.050"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:09.754"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:09.758"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:09.759"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:10.629"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:10.631"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:11.281"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:11.285"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:11.286"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:12.642"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:12.647"}
+{"level":"error","message":"download failed  at events.js:98:17 emit","timestamp":"2015-06-05 18:00:13.973"}
+{"level":"error","message":"记录日志同步信息失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:13.985"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:13.985"}
+{"level":"error","message":"记录日志失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:14.363"}
+{"level":"error","message":"修改状态失败null at fs.js:108:15 Object.oncomplete","timestamp":"2015-06-05 18:00:14.378"}
